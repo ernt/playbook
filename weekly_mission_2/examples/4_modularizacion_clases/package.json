@@ -1,0 +1,13 @@
+{
+  "name": "4_Modularizacion",
+  "version": "1.0.0",
+  "description": "Modularizacion de clases",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ernt",
+  "license": "ISC"
+}
